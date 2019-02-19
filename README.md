@@ -1,5 +1,5 @@
 # My Open Source Computer Science / Data Science Degree
-This is my 100% online, self-programmed education. It is a fully unaccredited a Bachelor of Computer Science with a masters-level focus in Data Science, inspired by <a href="https://github.com/ForrestKnight/open-source-cs">ForrestKnight's open source degree</a>.
+This is my 100% online, self-programmed education. It is a fully unaccredited Bachelor of Computer Science with a masters-level focus in Data Science, inspired by <a href="https://github.com/ForrestKnight/open-source-cs">ForrestKnight's open source degree</a>.
 
 
 
