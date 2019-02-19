@@ -4,5 +4,5 @@ This is my 100% online, self-programmed education! After completion, my educatio
 ## Computer Science Basics
 | Courses                                                   | School | Platform | Duration | Completion |
 | --------------------------------------------------------- | ------ | -------- | -------- | ---------- |
-| Introduction to Programming in C                          | Duke   | Coursera | 4 months |            |
-| Introduction to Discrete Mathematics for Computer Science | UCSD   | Coursera | 3 months |            |
+| <a href="https://www.coursera.org/specializations/c-programming">Introduction to Programming in C</a>                         | Duke   | Coursera | 4 months |            |
+| <a href="https://www.coursera.org/specializations/discrete-mathematics">Introduction to Discrete Mathematics <br>for Computer Science</a> | UC<br>San Deigo   | Coursera | 3 months |            |
