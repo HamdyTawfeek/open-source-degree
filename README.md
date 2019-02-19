@@ -15,7 +15,7 @@ This is my 100% online, self-programmed education. It is a fully unaccredited a 
 
 | Courses                                                      | School | Platform | Duration | Completion |
 | ------------------------------------------------------------ | ------ | -------- | -------- | ---------- |
-| <a href="https://www.coursera.org/learn/java-programming?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-PoMkgTcsGcpEHRDLoYYuDg&siteID=PtFMiHYfEVk-PoMkgTcsGcpEHRDLoYYuDg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Java Programming: Solving Problems with Software</a> | Duke   | Coursera | 4 weeks  |            |
+| <a href="https://www.coursera.org/learn/java-programming?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-PoMkgTcsGcpEHRDLoYYuDg&siteID=PtFMiHYfEVk-PoMkgTcsGcpEHRDLoYYuDg&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Java Programming: Solving Problems with Software</a><pre>          </pre> | Duke   | Coursera | 4 weeks  |            |
 | <a href="https://www.coursera.org/learn/java-programming-arrays-lists-data?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-lr0rtsRkzs60U38f9HuhUA&siteID=PtFMiHYfEVk-lr0rtsRkzs60U38f9HuhUA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Java Programming: Arrays, Lists, and Structured Data</a> | Duke   | Coursera | 4 weeks  |            |
 | <a href="https://www.coursera.org/learn/object-oriented-java?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-Neb3iVateCG6c0TraSTL6w&siteID=PtFMiHYfEVk-Neb3iVateCG6c0TraSTL6w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Object Oriented Programming in Java</a> | Duke   | Coursera | 6 weeks  |            |
 | <a href="https://www.coursera.org/learn/data-structures-optimizing-performance?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-6WeINukOd2kfaZTOqHt5VA&siteID=PtFMiHYfEVk-6WeINukOd2kfaZTOqHt5VA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Data Structures and Performance</a> | Duke   | Coursera | 6 weeks  |            |
@@ -29,7 +29,7 @@ This is my 100% online, self-programmed education. It is a fully unaccredited a 
 
 | Courses | School | Platform | Duration | Completion |
 | --- | --- | --- | --- | --- |
-| <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a> | IC London | Coursera | 5 weeks |     |
+| <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning: Linear Algebra</a><pre>     </pre> | IC London | Coursera | 5 weeks |     |
 | <a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning: Multivariate Calculus</a> | IC London | Coursera | 6 weeks |     |
 | <a href="https://www.edx.org/course/engineering-calculus-and-differential-equations">Engineering Calculus and Differential Equations</a> | U of Hong Kong | edX | 7 weeks  | |
 
@@ -54,7 +54,7 @@ This is my 100% online, self-programmed education. It is a fully unaccredited a 
 
 | Courses                                                      | School    | Platform | Duration | Completion |
 | ------------------------------------------------------------ | --------- | -------- | -------- | ---------- |
-| <a href="https://www.edx.org/course/computational-thinking-for-modeling-and-simulation">Computational Thinking for Modeling and Simulation</a> | MIT       | edX      | 6 weeks  |            |
+| <a href="https://www.edx.org/course/computational-thinking-for-modeling-and-simulation">Computational Thinking for Modeling and Simulation</a><pre>          </pre> | MIT       | edX      | 6 weeks  |            |
 | <a href="https://www.coursera.org/learn/cs-algorithms-theory-machines?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-uME1t0ZMtN5BZZlFmjHDGw&siteID=PtFMiHYfEVk-uME1t0ZMtN5BZZlFmjHDGw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Computer Science: Algorithms, Theory,  and Machines</a> | Princeton | Coursera | 3 months |            |
 | <a href="https://www.coursera.org/learn/algorithms-part1?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-VO1ROxDDV2ITpvbH.bjLjw&siteID=PtFMiHYfEVk-VO1ROxDDV2ITpvbH.bjLjw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Algorithms, Part I</a> | Princeton | Coursera | 6 weeks  |            |
 | <a href="https://www.coursera.org/learn/algorithms-part2?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-qOn2TBFXsccZrkcDnrcAyA&siteID=PtFMiHYfEVk-qOn2TBFXsccZrkcDnrcAyA&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Algorithms, Part II</a> | Princeton | Coursera | 6 weeks  |            |
@@ -67,5 +67,5 @@ This is my 100% online, self-programmed education. It is a fully unaccredited a 
 | ------------------------------------------------------------ | --------------- | -------- | -------- | ---------- |
 | <a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a> | UC Davis        | Coursera | 4 weeks  |            |
 | <a href="https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science">Getting and Cleaning Data</a> | Johns Hopkins U | Coursera | 3 weeks  |            |
-| <a href="https://www.coursera.org/learn/database-management">Database Management Essentials</a> | U of Colorado   | Coursera | 2 months |            |
+| <a href="https://www.coursera.org/learn/database-management">Database Management Essentials</a><pre>                           </pre> | U of Colorado   | Coursera | 2 months |            |
 
