@@ -61,11 +61,21 @@ This is my 100% online, self-programmed education. It is a fully unaccredited a 
 
 
 
-## Applications
+## Database
 
 | Courses                                                      | School          | Platform | Duration | Completion |
-| ------------------------------------------------------------ | --------------- | -------- | -------- | ---------- |
+| ------------------------------------------------------------ | --------------- | -------- | -------- | :--------: |
 | <a href="https://www.coursera.org/learn/sql-for-data-science">SQL for Data Science</a> | UC Davis        | Coursera | 4 weeks  |            |
 | <a href="https://www.coursera.org/learn/data-cleaning?specialization=jhu-data-science">Getting and Cleaning Data</a> | Johns Hopkins U | Coursera | 3 weeks  |            |
 | <a href="https://www.coursera.org/learn/database-management">Database Management Essentials</a> | U of Colorado   | Coursera | 2 months |            |
+
+
+
+## Application
+
+| Courses                                                      | School   | Platform | Duration | Completion |
+| ------------------------------------------------------------ | -------- | -------- | -------- | :--------: |
+| <a href="https://www.coursera.org/learn/crypto?ranMID=40328&ranEAID=PtFMiHYfEVk&ranSiteID=PtFMiHYfEVk-YHGZHn5t6sawqsP6dH_HQw&siteID=PtFMiHYfEVk-YHGZHn5t6sawqsP6dH_HQw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=PtFMiHYfEVk">Cryptography I</a> | Stanford | Coursera | 6 weeks  |            |
+| <a href="https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x">Software Engineering: Introduction</a> | UBC      | edX      | 6 weeks  |            |
+| <a href="https://www.coursera.org/specializations/data-visualization">Data Visualization with Tableau</a> | UC Davis | Coursera | 4 months |            |
 
