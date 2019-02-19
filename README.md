@@ -11,6 +11,7 @@ c-programming">Introduction to Programming in C</a
 <a href="https://www.coursera.org/specializations/ UC San   Coursera   3 months
 discrete-mathematics">Introduction to Discrete Mat Diego
 hematics for Computer Science</a>  
+-------------------------------------------------- -------- ---------- ---------- -------------
 
 ## Math
 | Courses | School | Platform | Duration | Completion |
