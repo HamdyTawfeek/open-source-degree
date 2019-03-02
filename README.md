@@ -6,7 +6,7 @@ This is my 100% online, self-programmed education. It is a fully unaccredited Ba
 ## Computer Science Basics
 | Courses                                                      | School       | Platform | Duration |                          Completion                          |
 | ------------------------------------------------------------ | ------------ | -------- | -------- | :----------------------------------------------------------: |
-| <a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a> | Duke         | Coursera | 4 months | <a href="https://www.coursera.org/account/accomplishments/certificate/9JENCDPSNMQ7">certificate</a> |
+| <a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a> | Duke         | Coursera | 1 month  | <a href="https://www.coursera.org/account/accomplishments/certificate/9JENCDPSNMQ7">certificate</a> |
 | <a href="https://www.coursera.org/specializations/discrete-mathematics">Introduction to Discrete Mathematics<br> for Computer Science</a> | UC San Diego | Coursera | 3 months |                                                              |
 
 
