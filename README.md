@@ -4,10 +4,10 @@ This is my 100% online, self-programmed education. It is a fully unaccredited Ba
 
 
 ## Computer Science Basics
-| Courses                                                      | School       | Platform | Duration | Completion |
-| ------------------------------------------------------------ | ------------ | -------- | -------- | ---------- |
-| <a href="https://www.coursera.org/specializations/c-programming">Introduction to Programming in C</a> | Duke         | Coursera | 4 months | 25%        |
-| <a href="https://www.coursera.org/specializations/discrete-mathematics">Introduction to Discrete Mathematics<br> for Computer Science</a> | UC San Diego | Coursera | 3 months |            |
+| Courses                                                      | School       | Platform | Duration |                          Completion                          |
+| ------------------------------------------------------------ | ------------ | -------- | -------- | :----------------------------------------------------------: |
+| <a href="https://www.coursera.org/learn/programming-fundamentals">Programming Fundamentals</a> | Duke         | Coursera | 4 months | <a href="https://www.coursera.org/account/accomplishments/certificate/9JENCDPSNMQ7">certificate</a> |
+| <a href="https://www.coursera.org/specializations/discrete-mathematics">Introduction to Discrete Mathematics<br> for Computer Science</a> | UC San Diego | Coursera | 3 months |                                                              |
 
 
 
@@ -28,10 +28,10 @@ This is my 100% online, self-programmed education. It is a fully unaccredited Ba
 ## Math
 
 | Courses | School | Platform | Duration | Completion |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | :-: |
 | <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning:<br> Linear Algebra</a> | IC London | Coursera | 5 weeks |     |
 | <a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning:<br> Multivariate Calculus</a> | IC London | Coursera | 6 weeks |     |
-| <a href="https://www.edx.org/course/engineering-calculus-and-differential-equations">Engineering Calculus and<br> Differential Equations</a> | U of Hong Kong | edX | 7 weeks  | 25% |
+| <a href="https://www.edx.org/course/engineering-calculus-and-differential-equations">Engineering Calculus and<br> Differential Equations</a> | U of Hong Kong | edX | 7 weeks  | 100% |
 
 
 
