@@ -31,7 +31,7 @@ This is my 100% online, self-programmed education. It is a fully unaccredited Ba
 | --- | --- | --- | --- | :-: |
 | <a href="https://www.coursera.org/learn/linear-algebra-machine-learning">Mathematics for Machine Learning:<br> Linear Algebra</a> | IC London | Coursera | 5 weeks |     |
 | <a href="https://www.coursera.org/learn/multivariate-calculus-machine-learning">Mathematics for Machine Learning:<br> Multivariate Calculus</a> | IC London | Coursera | 6 weeks |     |
-| <a href="https://www.edx.org/course/engineering-calculus-and-differential-equations">Engineering Calculus and<br> Differential Equations</a> | U of Hong Kong | edX | 7 weeks  | 100% |
+| <a href="https://www.edx.org/course/engineering-calculus-and-differential-equations">Engineering Calculus and<br> Differential Equations</a> | U of Hong Kong | edX | 7 weeks  | <a href="https://courses.edx.org/certificates/a6b4e1d52873440d9518a0a9cf355e10">certificate</a> |
 
 
 
